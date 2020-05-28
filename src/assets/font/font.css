@@ -1,0 +1,50 @@
+/*思源*/
+@font-face {
+  font-family: "SNB";
+  src: url('SourceHanSansCN-Bold.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "SNR";
+  src: url('SourceHanSansTC-Regular.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "SNM";
+  src: url('SourceHanSansCN-Medium.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "SNN";
+  src: url('SourceHanSansCN-Normal.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "SNL";
+  src: url('SourceHanSansCN-Light.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "SNH";
+  src: url('SourceHanSansCN-Heavy.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+/*苹方常规*/
+@font-face {
+  font-family: "PFR";
+  src: url('PingFangSC-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "PFM";
+  src: url('PingFang-Medium.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

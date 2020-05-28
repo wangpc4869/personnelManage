@@ -1,0 +1,134 @@
+//表格，分页样式
+//表格样式
+/deep/ .el-table{
+   th {
+     font-family: "SNM";
+     font-size: 14px;
+     color: rgba(0,0,0,0.85);
+     background: #FAFAFA;
+  }
+  td{
+    font-family: "PFR";
+    font-size: 14px;
+    color: rgba(0,0,0,0.85);
+  }
+  th,td{
+    padding: 15px 0;
+    border-right: 1px solid rgba(0,0,0,0.05);
+    border-bottom: 1px solid  rgba(0,0,0,0.15);
+  }
+  .el-table__body tr.current-row>td {
+    background-color: #F0FAFF;
+  }
+}
+.table-left{
+  margin-left: 5px;
+}
+.multipleTable{
+  .table-point{
+    display: flex;
+    align-items: center;
+    .point-left{
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+    }
+    .point-right{
+      flex: 1;
+      padding-left: 5px;
+    }
+  }
+  .table-progress{
+    display: flex;
+    align-items: center;
+    .progress-left{
+      width: 40px;
+    }
+    /deep/ .progress-right{
+      flex: 1;
+      .el-progress-bar__outer{
+        background: #F5F5F5;
+      }
+    }
+  }
+}
+.multipleTable,.calendar,.legend{
+  .pbg1,.dbg1{
+    background: #1890FF;
+  }
+  .pbg2,.dbg5{
+    background: #CECECE;
+  }
+  .pbg3{
+    background: #52C41A;
+  }
+  .dbg2{
+    background: #FF6B6A;
+  }
+  .dbg3{
+    background: #FFBB58;
+  }
+  .dbg4{
+    background: #7F94FF;
+  }
+}
+//解决element表格遇到display：flex问题
+.table-div{
+  position:absolute;
+  width: 100%;
+  padding-right: 40px
+}
+//分页样式
+/deep/ .pagination{
+  margin-top: 30px;
+  text-align: right;
+  .el-pager {
+    li{
+      min-width: 27px;
+      height: 26px;
+      line-height: 26px;
+    }
+    .active{
+      font-size: 14px;
+      color: #FFFFFF;
+      background: #1890FF;
+      border-radius: 4px;
+    }
+  }
+}
+//弹框样式
+/deep/ .el-dialog{
+  .el-dialog__header{
+    padding: 15px 10px 15px 20px;
+    border-bottom: 1px solid rgba(0,0,0,0.15);
+    .el-dialog__title{
+      font-family: "SNM";
+      font-size: 20px;
+      color: rgba(0,0,0,0.85);
+    }
+    .el-icon-close{
+      font-size: 22px;
+    }
+  }
+  .el-dialog__body{
+    font-size: 14px;
+    color: rgba(0,0,0,0.85);
+    .el-form-item__label{
+      font-family: "SNM";
+    }
+    .handle-input{
+      width: 100%;
+    }
+  }
+  .el-dialog__footer{
+    padding: 15px 10px 15px 20px;
+    border-top: 1px solid rgba(0,0,0,0.15);
+    .el-button{
+      width: 65px;
+      height: 32px;
+      padding: 0;
+      padding-left: 2px;
+      letter-spacing: 2px;
+    }
+  }
+}

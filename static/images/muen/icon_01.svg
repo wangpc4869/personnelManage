@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>leftbar-收起</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="工作看板1" transform="translate(-21.000000, -24.000000)">
+            <g id="leftbar">
+                <g id="leftbar-收起" transform="translate(29.000000, 31.000000) scale(-1, 1) translate(-29.000000, -31.000000) translate(20.000000, 22.000000)">
+                    <rect id="Rectangle-9" x="0" y="0" width="18" height="18"></rect>
+                    <rect id="Combined-Shape" fill="#FFFFFF" x="1.125" y="2.25" width="15.75" height="1.6875" rx="0.84375"></rect>
+                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="1.125" y="8.15625" width="10.125" height="1.6875" rx="0.84375"></rect>
+                    <path d="M15.0195997,7.47135946 L16.9087501,10.4940002 C16.9672922,10.5876675 16.9388176,10.7110576 16.8451503,10.7695997 C16.8133639,10.7894661 16.7766344,10.8 16.7391505,10.8 L12.9608495,10.8 C12.8503926,10.8 12.7608495,10.7104569 12.7608495,10.6 C12.7608495,10.5625161 12.7713834,10.5257865 12.7912499,10.4940002 L14.6804003,7.47135946 C14.7389424,7.37769215 14.8623325,7.34921752 14.9559998,7.40775958 C14.9817536,7.42385573 15.0035035,7.44560563 15.0195997,7.47135946 Z" id="三角形" fill="#FFFFFF" transform="translate(14.850000, 9.000000) rotate(-90.000000) translate(-14.850000, -9.000000) "></path>
+                    <rect id="Rectangle-Copy-2" fill="#FFFFFF" x="1.125" y="14.0625" width="15.75" height="1.6875" rx="0.84375"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

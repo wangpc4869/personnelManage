@@ -1,0 +1,20 @@
+//其他
+body::-webkit-scrollbar,.el-table__body-wrapper::-webkit-scrollbar,.scrollbar::-webkit-scrollbar,ul::-webkit-scrollbar,.el-textarea__inner::-webkit-scrollbar,.el-dialog__body::-webkit-scrollbar {/*滚动条整体样式*/
+  width: 7px;     /*高宽分别对应横竖滚动条的尺寸*/
+  height: 7px;
+}
+body::-webkit-scrollbar-thumb,.el-table__body-wrapper::-webkit-scrollbar-thumb,.scrollbar::-webkit-scrollbar-thumb,ul::-webkit-scrollbar-thumb,.el-textarea__inner::-webkit-scrollbar-thumb,.el-dialog__body::-webkit-scrollbar-thumb {/*滚动条里面小方块*/
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.1);
+  background:rgba(0,0,0,0.1);
+}
+body::-webkit-scrollbar-track,.el-table__body-wrapper::-webkit-scrollbar-track,.scrollbar::-webkit-scrollbar-track,ul::-webkit-scrollbar-track,.el-textarea__inner::-webkit-scrollbar-track,.el-dialog__body::-webkit-scrollbar-track {/*滚动条里面轨道*/
+  -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0);
+  border-radius: 10px;
+  background: rgba(62,185,204,0);
+}
+.pc-text{
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}

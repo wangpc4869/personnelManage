@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Icon/up</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.9953125,4.6890625 C13.9953125,4.8390625 13.9453125,4.990625 13.8453125,5.1171875 L8.51875,11.7390625 C8.3890625,11.9 8.19375,11.99375 7.9859375,11.99375 C7.7796875,11.99375 7.5828125,11.9 7.4546875,11.7390625 L2.15625,5.1453125 C1.9203125,4.8515625 1.9671875,4.421875 2.2609375,4.1859375 C2.5546875,3.95 2.984375,3.996875 3.2203125,4.290625 L7.9875,10.221875 L12.78125,4.2609375 C13.0171875,3.9671875 13.446875,3.9203125 13.740625,4.15625 C13.9078125,4.2921875 13.9953125,4.4890625 13.9953125,4.6890625 Z" id="path-1"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="工作看板3" transform="translate(-1853.000000, -112.000000)">
+            <g id="2" transform="translate(1062.000000, 88.000000)">
+                <g id="选择状态" transform="translate(614.000000, 12.000000)">
+                    <g id="Select点击">
+                        <g id="Icon/up" transform="translate(183.000000, 16.000000) scale(1, -1) translate(-183.000000, -16.000000) translate(175.000000, 8.000000)">
+                            <g id="Group">
+                                <rect id="Rectangle" x="0" y="0" width="16" height="16"></rect>
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill-opacity="0.25" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
